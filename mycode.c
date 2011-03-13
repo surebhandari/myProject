@@ -1,6 +1,8 @@
 int main()
 {
 
-return 0;
+rint i=1;
+int j=2;
+eturn 0;
 }
 
